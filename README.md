@@ -1,16 +1,95 @@
-## Hi there 👋
+## Olá, Eu sou a Eduarda Castro 👩🏻‍💻
 
-<!--
-**EduardaCastro/eduardacastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Estagiária Front-End`**
 
-Here are some ideas to get you started:
+Me chamo Maria Eduarda Castro, tenho 19 anos e sou de Recife-Pernambuco.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, sou acadêmica em Sistemas para Internet na Unicap. Tem sido uma nova descoberta a área de tecnologia, tem se tornado uma nova paixão! 🥰
+
+↪️| Meu perfil no Linkedin é [Eduarda Castro](https://www.linkedin.com/in/eduarda-castro-9b479a26b/). 
+
+📩| E caso queira entrar em contato esse é [E-mail](eduard4castr00@gmail.com).
+
+<p align="left">
+   <a href="https://github.com/eduardacastr0?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/eduardacastro?color=e70375&style=for-the-badge&labelColor=e70375&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/eduardacastro?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/eduardacastro?color=b303e7&labelColor=b303e7&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
+
+---
+
+## Linguagens e Tecnologias 👾
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+   align="left" 
+   alt="Angular"
+   title="Angular" 
+   width="30px" 
+   style="padding-right: 10px;" 
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" 
+  />
+<img
+   align="left" 
+   alt="MySQL"
+   title="SQL" 
+   width="30px" 
+   style="padding-right: 10px;" 
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+   
+<img 
+   align="left" 
+   alt="Arduíno"
+   title="Arduíno" 
+   width="30px" 
+   style="padding-right: 10px;" 
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />   
+<img
+   align="left" 
+   alt="Behance"
+   title="Behance" 
+   width="30px" 
+   style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/behance/behance-original.svg" />
