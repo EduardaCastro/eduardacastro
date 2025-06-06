@@ -1,6 +1,6 @@
 ## Olá, Eu sou a Eduarda Castro 👩🏻‍💻
 
-**`Estagiária Front-End`**
+**`Estagiária de TI`**
 
 Me chamo Maria Eduarda Castro, tenho 19 anos e sou de Recife-Pernambuco.
 
